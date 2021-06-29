@@ -2,8 +2,8 @@
 
 ## Header 2
 
-* italic *
-** bold **
+*italic*
+**bold**
 
 * one
 * two 
